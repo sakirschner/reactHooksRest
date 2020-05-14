@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Eat Breakfast",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "text": "Finish Course",
+      "complete": true
+    },
+    {
+      "id": "5e1c38-0260-08c-5de8-21a878b26d6",
+      "text": "Do laundry",
+      "complete": true
+    }
+  ]
+}
